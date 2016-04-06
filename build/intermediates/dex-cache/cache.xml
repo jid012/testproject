@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JingD/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_deca134a183e2d8c624ec7306caa83f0dfbfe694.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_32c4e1840943235fd1f05c085f54eb2d541dcec6.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_0c9ecd87f7f949caadd3321315fc9d15c2bc81a4.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_3cc285607cbf0b417d844a0df9934a536cbf48d3.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_25043803321a27a9b49425ce687fc5a6070aef3f.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_c77c9390b363b339681e3b04819887379a025906.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_9a6c1bff02a4adcb816895f57974d02200a47e5a.jar" />
+    </item>
+    <item
+        jar="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/JingD/AndroidStudioProjects/TestProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_f71afb4d1f6516fc29223cc7d6bc4ca8091d8fd8.jar" />
+    </item>
+
+</items>
